@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marian Suárez</h1>
 <h3 align="left">💫 About me:</h3>
 <h4 align="left">I am an enthusiastic full-stack developer based in Venezuela. Passionate about teamwork and problem-solving, I am seeking opportunities to collaborate on challenging projects and grow professionally. I enjoy diving into new languages and technologies. Always eager to learn and contribute my knowledge! If you are looking for a proactive and collaborative developer for your team, please don't hesitate to contact me.</h4>
-- 🔭 I’m currently working on Insight Crxto (https://github.com/Marianvsf/Insight-Crxto)</h4>
+- 🔭 I’m currently working on Project Pulse (https://github.com/Marianvsf/Project-Pulse) 
+</br>
+and Insight Crxto (https://github.com/Marianvsf/Insight-Crxto)</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
