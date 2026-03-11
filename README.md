@@ -3,11 +3,11 @@
 <h4 align="left">I am an enthusiastic full-stack developer based in Venezuela. Passionate about teamwork and problem-solving, I am seeking opportunities to collaborate on challenging projects and grow professionally. I enjoy diving into new languages and technologies. Always eager to learn and contribute my knowledge! If you are looking for a proactive and collaborative developer for your team, please don't hesitate to contact me.</h4>
 🔭 I’m currently working on:
 </br>
-- Project Pulse (https://github.com/Marianvsf/Project-Pulse) 
-</br>
 - Insight Crxto (https://github.com/Marianvsf/Insight-Crxto)
 </br>
 - Gestión BDT (https://github.com/Marianvsf/GestionBDT)</h4>
+</br>
+- Project Pulse (https://github.com/Marianvsf/Project-Pulse) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
