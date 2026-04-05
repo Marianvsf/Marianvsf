@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marian Suárez</h1>
 <h3 align="left">💫 About me:</h3>
-<h4 align="left">I am an enthusiastic full-stack developer based in Venezuela. Passionate about teamwork and problem-solving, I am seeking opportunities to collaborate on challenging projects and grow professionally. I enjoy diving into new languages and technologies. Always eager to learn and contribute my knowledge! If you are looking for a proactive and collaborative developer for your team, please don't hesitate to contact me.</h4>
+<h4 Enthusiastic Full-Stack Developer based in Venezuela, dedicated to building scalable solutions and solving complex problems through clean code. I thrive in collaborative environments and am constantly exploring emerging technologies to stay at the forefront of the industry. I am currently seeking new challenges where I can contribute my technical expertise and proactive mindset to a forward-thinking team. Let’s connect and build something great together!. </h4>
 🔭 I’m currently working on:
 </br>
 - Gestión BDT (https://github.com/Marianvsf/GestionBDT) deploy: https://gestionbdt.onrender.com/
