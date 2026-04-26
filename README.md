@@ -10,7 +10,7 @@ Enthusiastic Full-Stack Developer based in Venezuela, dedicated to building scal
 <ul>
   <li><a href="https://github.com/Marianvsf/GestionBDT">Gestión BDT</a> (Deploy: <a href="https://gestionbdt.onrender.com/">Link</a>)</li>
   <li><a href="https://github.com/Marianvsf/Insight-Crxto">Insight Crxto</a></li>
-  <li><a href="https://github.com/Marianvsf/Project-Pulse">Project Pulse</a> (Deploy: <a href="https://project-pulse-inky.vercel.app/>Link</a>)</li> 
+  <li><a href="https://github.com/Marianvsf/Project-Pulse">Project Pulse</a> (Deploy: <a href="https://project-pulse-inky.vercel.app/">Link</a>)</li> 
 </ul>
 </p>
 
