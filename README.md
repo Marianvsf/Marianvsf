@@ -14,7 +14,7 @@ Enthusiastic Full-Stack Developer based in Venezuela, dedicated to building scal
 </ul>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/marian-suárez-07-08-ms" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
